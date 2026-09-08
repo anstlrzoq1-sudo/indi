@@ -1,0 +1,6 @@
+{
+  "name": "IndieForge Hub",
+  "description": "Global Indie Game & Mini Project Showcase Hub for solo developers and creators to discover, bookmark, and showcase indie web games and software tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
